@@ -1,0 +1,7 @@
+streamlit
+seaborn
+pandas
+numpy
+scikit-learn
+imblearn
+xgboost
